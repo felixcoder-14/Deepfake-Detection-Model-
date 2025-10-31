@@ -120,7 +120,7 @@ python src/train.py
 
 Outputs:
 
-* `mobilenetv2_model.h5`
+* `deepfake_model_02.keras`
 * Model logs
 
 ---
