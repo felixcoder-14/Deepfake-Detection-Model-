@@ -71,8 +71,8 @@ Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)**
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/felixcoder-14/Deepfake-Detection-Model-.git
+cd Deepfake-Detection-Model-
 ```
 
 Install dependencies:
